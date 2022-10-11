@@ -1,1 +1,1 @@
-# EDA-of-Medical-Appointments-Data-
+# EDA of Medical Appointments Data
