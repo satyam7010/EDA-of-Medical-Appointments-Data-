@@ -1,1 +1,2 @@
 # EDA of Medical Appointments Data.
+This medical appointment dataset collects information from 100k medical appointments and focuses on whether or not patients show up for their appointment. The main question we are trying to answer here is why 30% of patients miss their scheduled appointment. This is a good dataset for research into the psychology of health care, behavioral economics, and health systems.
